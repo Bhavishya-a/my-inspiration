@@ -1,0 +1,14 @@
+body {
+    text-align: center;
+    background:khaki;
+}
+img {
+    height: 400px;
+    Width:300px
+}
+.line {
+    height:6px;
+    background-color: black;
+    width: 70px;
+    margin: 8px auto;
+}
